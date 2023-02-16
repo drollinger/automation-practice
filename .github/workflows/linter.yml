@@ -1,4 +1,4 @@
-name: "Sanity Tests"
+name: "Lint Check"
 on: [push, pull_request] 
 
 jobs:

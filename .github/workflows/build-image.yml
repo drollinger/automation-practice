@@ -20,5 +20,4 @@ jobs:
         with:
           file: Dockerfile
           push: true
-          tags: |
-            drollinger/automation-testing:latest
+          tags: drollinger/automation-testing:latest
