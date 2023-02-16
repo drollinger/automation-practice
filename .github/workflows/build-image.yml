@@ -2,7 +2,7 @@ name: "Build Image"
 on:
   push:
     branches:
-      - main
+      - not-existing
   workflow_dispatch:
 
 jobs:
