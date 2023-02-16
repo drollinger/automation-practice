@@ -1,0 +1,8 @@
+name: "Full Tests"
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  
